@@ -1,4 +1,4 @@
-# DBMS-Project-Extendible-Hashing-
+# DBMS-Project-Extendible-Hashing
 
 A project which gives us a demo on how extendible hashing works
 ## Team
